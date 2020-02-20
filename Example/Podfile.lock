@@ -1,0 +1,16 @@
+PODS:
+  - UEBubblePicker (1.3.3)
+
+DEPENDENCIES:
+  - UEBubblePicker (from `../`)
+
+EXTERNAL SOURCES:
+  UEBubblePicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UEBubblePicker: c7aafaed635a803b2804e775e7a234bc20fbdd35
+
+PODFILE CHECKSUM: 57a32ed316cfc10c3abfb9c9372818d356c96c66
+
+COCOAPODS: 1.8.4
