@@ -26,18 +26,17 @@
 Check out our example project! You can mess with the pod configurations and find out some interesting interactions by yourself.  
 **Important:** clone the repo and run `pod install` in the Example directory first.
 
-_note: this video uses default bubbles, but there's a custom bubble ready --_  
-_change the customBubbles property in the View Controller_
-
-![Sample Video](Assets/looping-demo.mp4)  
+[Download sample video (1/2)](Assets/looping-demo.mp4)  
+(GitHub can't play this video. For the time being, please download it to watch it)
 
 ## Real Example
 
 This component was used in our app Sapiência Today. **_Behold_** some of the interactions you can do with it:
 
-_note: screen transition animations were made using [Hero](https://github.com/HeroTransitions/Hero) and the refresh icon using [Lottie](https://github.com/airbnb/lottie-ios)_
+[Download sample video (2/2)](Assets/sapiencia-demo.mp4)  
+(GitHub can't play this video. For the time being, please download it to watch it) 
 
-![Sample Video](Assets/sapiencia-demo.mp4)  
+_Note: screen transition animations were made using [Hero](https://github.com/HeroTransitions/Hero) and the refresh icon using [Lottie](https://github.com/airbnb/lottie-ios)_
 
 ## Requirements
 
@@ -179,8 +178,6 @@ You can have anything you want in your `UEBubbleView` subclass. You might want t
 ## Planned Features
 Some features we're planning for the (hopefully not far) future:
 
-- **More customization options**
-	- Enable/Disable background scrolling, for example.
 - **Bubble cycling:**
     - What if you want to put a gazillion bubbles but you don't have the space for it? You might wanna cycle it. If you have a max of 20 on-screen, when you add a 21st, the 1st one of the stack is removed, and so on.
 
